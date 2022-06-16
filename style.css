@@ -1,0 +1,9 @@
+.list-group-item.active {
+  background-color: #6c757d;
+  border: #6c757d;
+}
+
+#doc-list {
+  position: sticky;
+  top: 2rem;
+}
